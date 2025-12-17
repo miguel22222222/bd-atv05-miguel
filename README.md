@@ -31,3 +31,4 @@
 	WHERE tipo;
 	
 	SELECT * FROM telefones;
+	DECR https://app.diagrams.net/
