@@ -23,4 +23,11 @@
      INSERT INTO telefones (numero,tipo) VALUES
     ('2198765432','celular'),
     ('83987453901','celular');
-    SELECT * FROM telefones;
+    UPDATE ALUNOS
+	SET matricula = '109079'
+	WHERE ID = 1;
+
+	DELETE FROM telefones
+	WHERE tipo;
+	
+	SELECT * FROM telefones;
